@@ -1,4 +1,4 @@
-<p align="center"><font size="5">Мемный кликер</font></p>
+<p align="center"><font size="35">Мемный кликер</font></p>
 
 
 
